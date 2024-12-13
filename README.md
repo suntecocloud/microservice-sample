@@ -1,1 +1,1 @@
-# API gateway example
+# Microservice example projects
